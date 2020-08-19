@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# I rebuilt the video-browser application with React. It is basically a Youtube video browser and player. so you can search for videos which are retrieved from Youtube, using the Youtube API and they are nicely displayed for you. You can click on any of them to watch the video.
+
 ## Available Scripts
 
 In the project directory, you can run:
